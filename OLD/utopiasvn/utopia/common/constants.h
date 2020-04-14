@@ -1,0 +1,35 @@
+#pragma once
+
+//MIPS gp registers
+#define GPREG_ZR              0
+#define GPREG_AT              1
+#define GPREG_V0              2
+#define GPREG_V1              3
+#define GPREG_A0              4
+#define GPREG_A1              5
+#define GPREG_A2              6
+#define GPREG_A3              7
+#define GPREG_T0              8
+#define GPREG_T1              9
+#define GPREG_T2              10
+#define GPREG_T3              11
+#define GPREG_T4              12
+#define GPREG_T5              13
+#define GPREG_T6              14
+#define GPREG_T7              15
+#define GPREG_S0              16
+#define GPREG_S1              17
+#define GPREG_S2              18
+#define GPREG_S3              19
+#define GPREG_S4              20
+#define GPREG_S5              21
+#define GPREG_S6              22
+#define GPREG_S7              23
+#define GPREG_T8              24
+#define GPREG_T9              25
+#define GPREG_K0              26
+#define GPREG_K1              27
+#define GPREG_GP              28
+#define GPREG_SP              29
+#define GPREG_FP              30
+#define GPREG_RA              31

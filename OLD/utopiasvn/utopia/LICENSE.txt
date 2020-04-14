@@ -1,0 +1,4 @@
+The Utopia Project and its Sources are under the BSD license.
+Please respect its terms while using those sources for your own projects.
+
+Mathieu Hervais (Mathieulh@gmail.com) , Member of the Utopia Project.
